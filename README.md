@@ -42,7 +42,7 @@ _**LATEST UPDATE:**_ _Exploring Cyber Security and Web3 Technologies_ 🥽.
 ### 📊 Github Stats
  [![Prashant GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashant-Bhapkar&show_icons=true)](https://github.com/Prashant-Bhapkar/github-readme-stats)
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Bhapkar&theme=default)](https://git.io/streak-stats)
 
 ## 🚀 Languages and Tools :
 
