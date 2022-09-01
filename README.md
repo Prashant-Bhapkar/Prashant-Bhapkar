@@ -44,7 +44,6 @@ _**LATEST UPDATE:**_ _Exploring Cyber Security and Web3 Technologies_ 🥽.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Bhapkar&theme=default)](https://git.io/streak-stats)
 
-<br>
 
 ## 🚀 Languages and Tools :
 
@@ -64,7 +63,6 @@ _**LATEST UPDATE:**_ _Exploring Cyber Security and Web3 Technologies_ 🥽.
   
 </div>
 
-<br>
 
 ## 🔗 Know more about me
  
