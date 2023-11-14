@@ -30,7 +30,7 @@ _**LATEST UPDATE:**_ _Exploring Cyber Security and Web3 Technologies_ 🥽.
 
 - 👨‍💼 Sr. Software Engineer @ [KPIT](https://www.kpit.com/)
 - 👦 Completed MTech @ [CEOP](https://www.coep.org.in/) Pune
-- 💼 Ex [Tata Motors](https://www.tatamotors.com/), [Skoda Volkswagen](https://www.skoda-vw.co.in/) and [EPAM](https://www.epam.com/) Intern
+- 💼 Ex [Tata Motors](https://www.tatamotors.com/), [Skoda Volkswagen](https://www.skoda-vw.co.in/) and [EPAM](https://www.epam.com/) 
 - 👨‍💻 ***#SelfTaught*** Entrepreneur (Ex Founder @ [Shopix](https://shopix.in/))
 - 🛡️ Security Researcher @ [Bugcrowd](https://www.bugcrowd.com/) and [Hackerone](https://www.hackerone.com/)
 - 🌐 Exploring Artificial Intelligence, Machine Learning and Personal Development
