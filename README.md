@@ -28,12 +28,12 @@ _**LATEST UPDATE:**_ _Exploring Cyber Security and Web3 Technologies_ 🥽.
 
 ### 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍💼 Founder/Building @ [EWeb3](https://eweb3.dev)
-- 👦 Pursuing MTech @ [CEOP](https://www.coep.org.in/) Pune
-- 💼 Ex [Skoda Volkswagen](https://www.skoda-vw.co.in/) and [EPAM](https://www.epam.com/) Intern
+- 👨‍💼 Sr. Software Engineer @ [KPIT](https://www.kpit.com/)
+- 👦 Completed MTech @ [CEOP](https://www.coep.org.in/) Pune
+- 💼 Ex [Tata Motors](https://www.tatamotors.com/), [Skoda Volkswagen](https://www.skoda-vw.co.in/) and [EPAM](https://www.epam.com/) Intern
 - 👨‍💻 ***#SelfTaught*** Entrepreneur (Ex Founder @ [Shopix](https://shopix.in/))
 - 🛡️ Security Researcher @ [Bugcrowd](https://www.bugcrowd.com/) and [Hackerone](https://www.hackerone.com/)
-- 🌐 Exploring Blockchain and Security Domain
+- 🌐 Exploring Artificial Intelligence, Machine Learning and Personal Development
 - 🏆 "Entrepreneur of the year" award 2023
 - ✍️ Write blogs on [BlogSection](https://blogsection.in/) and [SoftReadBlog](https://www.softreadblog.com/)
 - ❤️ To connect with people 
