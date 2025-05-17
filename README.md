@@ -1,75 +1,90 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/prashant-bhapkar-064a78145/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@prashantbhapkar7">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=blue" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/PBBhapkar">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
+<h1 align="center">Hey, I'm <span style="color:#00bfff">Prashant Bhapkar</span> 👨‍💻</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Prashant-Bhapkar&color=blue" alt=""/>
+  🚀 GenAI | ⚙️ DevSecOps | 🏆 Award-Winning Innovator | Tech Speaker<br/>
+  🎯  Currently, I'm focused on building intelligent systems and optimizing DevSecOps workflows @ <b>KPIT Technologies</b><br/>
+  🌐 <a href="https://www.prashantbhapkar.com">prashantbhapkar.com</a> 
 </p>
 
-<h1 align="center">
-   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  ! I'm Prashant 🙋‍♂️
-</h1>
+---
 
+### ✨ About Me
 
-_**LATEST UPDATE:**_ _Exploring Cyber Security and Web3 Technologies_ 🥽.
+I'm a software engineer with expertise in DevSecOps, AI-driven solutions, and Automation. My journey in tech began with a passion for solving complex problems through innovative solutions.
 
-### 🎍 Welcome to my hub 👨‍💻
+Currently working as a Senior Software Engineer at KPIT Technologies, I lead projects that integrate AI and automation to streamline development workflows and enhance operational efficiency.
 
-- 👨‍💼 Sr. Software Engineer @ [KPIT](https://www.kpit.com/)
-- 👦 Completed MTech @ [CEOP](https://www.coep.org.in/) Pune
-- 💼 Ex [Tata Motors](https://www.tatamotors.com/), [Skoda Volkswagen](https://www.skoda-vw.co.in/) and [EPAM](https://www.epam.com/) 
-- 👨‍💻 ***#SelfTaught*** Entrepreneur (Ex Founder @ [Shopix](https://shopix.in/))
-- 🛡️ Security Researcher @ [Bugcrowd](https://www.bugcrowd.com/) and [Hackerone](https://www.hackerone.com/)
-- 🌐 Exploring Artificial Intelligence, Machine Learning and Personal Development
-- 🏆 "Entrepreneur of the year" award 2023
-- ✍️ Write blogs on [BlogSection](https://blogsection.in/) and [SoftReadBlog](https://www.softreadblog.com/)
-- ❤️ To connect with people 
-- Loves Reading Books 📚 and Playing Chess ♟️
-- Proud 🇮🇳.
+- 💡 Focus: Intelligent CI/CD, GenAI, and DevSecOps
+- 🧠 Specialized in building automated, self-healing systems
+- 🏆 "Entrepreneur of the Year" 2023
+- 🎙️ Frequent Tech Speaker and AI Evangelist (virtual counts too ☕)
 
+---
 
-### 📊 Github Stats
- [![Prashant GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashant-Bhapkar&show_icons=true)](https://github.com/Prashant-Bhapkar/github-readme-stats)
+### 🛠️ Tech Stack Snapshot
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Bhapkar&theme=default)](https://git.io/streak-stats)
+```yaml
+Languages: [Python, Shell, Java, YAML, Markdown]
+AI/ML: [LangChain, RAG, LLMs, Prompt Engineering]
+DevOps: [Docker, Kubernetes, GitLab CI/CD, Jenkins, Terraform, Helm]
+Cloud: [AWS (EC2, S3, Rekognition)]
+Monitoring: [Prometheus, Grafana, Airflow]
+Databases: [MySQL, PostgreSQL, Vector DB, Kafka]
+Security: [Static Analysis, Cloc, Lizard, PMD, CPD]
+```
 
+---
 
-## 🚀 Languages and Tools :
+### 🧩 Projects Worth Exploring
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg" title="WordPress"  alt="WordPress" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/woocommerce/woocommerce-plain-wordmark.svg" title="WOO"  alt="WOO" width="40" height="40"/>&nbsp;
-  
-</div>
+📌 **[Awesome Security Resources](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources)**  
+A curated collection of tools and scripts for Penetration Testing, Red/Blue teaming, and InfoSec.
 
+🤖 **CI/CD Pipeline Auto-Healer**  
+Achieved 99.9% recovery using AI-based retrigger + GenAI classifier (LangChain + RAG).
 
-## 🔗 Know more about me
- 
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:prashantbhapkar13@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/prashantbhapkar7/)
- 
+📄 **LLM-Powered Doc Generator**  
+Auto-generates Markdown documentation from code + commits and publishes via MkDocs.
 
+🛒 **Next Gen Virtual Mall**  
+3D shopping experience built with Unity3D, Blender, and Firebase.
 
+---
+
+### 📊 GitHub: Beyond the Code
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashant-Bhapkar&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Bhapkar&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Bhapkar&theme=radical" height="180"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashant-bhapkar-064a78145/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/PBBhapkar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:prashantbhapkar13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.prashantbhapkar.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>
+</p>
