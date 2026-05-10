@@ -91,11 +91,11 @@ Cloud (AWS)           ██████████████░░░░░�
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Prashant-Bhapkar&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444&icon_color=000000)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prashant-Bhapkar&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444&icon_color=000000)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Bhapkar&theme=default&hide_border=true&background=ffffff&stroke=eeeeee&ring=000000&fire=000000&currStreakLabel=000000)
+![Streak](https://streak-stats.demolab.com/?user=Prashant-Bhapkar&theme=default&hide_border=true&background=ffffff&stroke=eeeeee&ring=000000&fire=000000&currStreakLabel=000000)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Bhapkar&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444)
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prashant-Bhapkar&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444)
 
 </div>
 
